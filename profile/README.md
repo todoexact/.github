@@ -1,8 +1,8 @@
 # TodoExact
 
-*Exact execution, end to end.*
+*Crafting tomorrow's solutions today.*
 
-TodoExact is a **complete-solution service studio**. From the first workshop to launch — and the months that follow — one team owns your product end to end. We build directly for businesses, white-label for agency partners, and shape our own internal products. No handoffs, no drift: scoped tightly, built precisely, delivered working.
+TodoExact is a **complete-solution service studio**. Innovation, expertise, and passion come together here — from the first workshop to launch, and the months that follow, one team owns your product end to end. We build directly for businesses, white-label for agency partners, and shape our own internal products. No handoffs, no drift: scoped tightly, built precisely, delivered working.
 
 **Services**
 
